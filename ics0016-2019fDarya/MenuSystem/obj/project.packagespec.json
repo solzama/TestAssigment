@@ -1,0 +1,53 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/MenuSystem/MenuSystem.csproj",
+    "projectName": "MenuSystem",
+    "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/MenuSystem/MenuSystem.csproj",
+    "outputPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/MenuSystem/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard2.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netstandard2.1": {
+        "projectReferences": {
+          "/Users/sashazamana17/C#2019/ics0016-2019fDarya/GameEngine/GameEngine.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/GameEngine/GameEngine.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard2.1": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.0-preview2.19525.5, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

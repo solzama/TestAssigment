@@ -1,0 +1,81 @@
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.deps.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.runtimeconfig.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.runtimeconfig.dev.json
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.dll
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.pdb
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.Views.dll
+/Users/sashazamana17/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.Views.pdb
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.csprojAssemblyReference.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/staticwebassets/Payment Validation.StaticWebAssets.Manifest.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/staticwebassets/Payment Validation.StaticWebAssets.xml
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.MvcApplicationPartsAssemblyInfo.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorAssemblyInfo.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorAssemblyInfo.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.AssemblyInfoInputs.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.AssemblyInfo.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.TagHelpers.input.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.TagHelpers.output.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorCoreGenerate.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorTargetAssemblyInfo.cache
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorTargetAssemblyInfo.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.Views.pdb
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.dll
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.pdb
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.csproj.CopyComplete
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Validation.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Validation/Card.cshtml.g.cs
+/Users/sashazamana17/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Validation/Card_Error.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.deps.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.runtimeconfig.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.runtimeconfig.dev.json
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.pdb
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.Views.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Payment Validation.Views.pdb
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.csprojAssemblyReference.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/staticwebassets/Payment Validation.StaticWebAssets.Manifest.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/staticwebassets/Payment Validation.StaticWebAssets.xml
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.MvcApplicationPartsAssemblyInfo.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorAssemblyInfo.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorAssemblyInfo.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.AssemblyInfoInputs.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.AssemblyInfo.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.TagHelpers.input.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.TagHelpers.output.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorCoreGenerate.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Index.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Home/Validation.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Validation/Card.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/Validation/Card_Error.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorTargetAssemblyInfo.cache
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.RazorTargetAssemblyInfo.cs
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.Views.pdb
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.pdb
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/obj/Debug/netcoreapp3.0/Payment Validation.csproj.CopyComplete
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll

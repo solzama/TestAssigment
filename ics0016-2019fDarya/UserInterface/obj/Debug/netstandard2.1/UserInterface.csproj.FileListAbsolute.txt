@@ -1,0 +1,11 @@
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\bin\Debug\netstandard2.1\UserInterface.deps.json
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\bin\Debug\netstandard2.1\UserInterface.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\bin\Debug\netstandard2.1\UserInterface.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\bin\Debug\netstandard2.1\GameEngine.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\bin\Debug\netstandard2.1\GameEngine.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.csprojAssemblyReference.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.AssemblyInfoInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.AssemblyInfo.cs
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.csproj.CopyComplete
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\UserInterface\obj\Debug\netstandard2.1\UserInterface.pdb

@@ -1,0 +1,70 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/Connect4/Connect4.csproj",
+    "projectName": "Connect4",
+    "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/Connect4/Connect4.csproj",
+    "outputPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/Connect4/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/sashazamana17/C#2019/ics0016-2019fDarya/DAL/DAL.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/DAL/DAL.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019fDarya/GameEngine/GameEngine.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/GameEngine/GameEngine.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019fDarya/MenuSystem/MenuSystem.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/MenuSystem/MenuSystem.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019fDarya/UserInterface/UserInterface.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019fDarya/UserInterface/UserInterface.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.2, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

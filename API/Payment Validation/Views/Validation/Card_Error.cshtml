@@ -1,0 +1,22 @@
+@page
+@using Payment_Validation.Models
+@model Payment_Validation.Models.Error
+@{
+    ViewBag.Title = "Card_Error";
+    Layout = "_Layout";
+}
+
+
+<!DOCTYPE html>  
+  
+<html>  
+<head>  
+    <meta name="viewport" content="width=device-width" />  
+    <title>Card</title>  
+</head>  
+<body> 
+<div>  
+    <b>Error: </b>  @Html.DisplayFor(model => model.Message)
+    <br />
+
+</div></body></html>

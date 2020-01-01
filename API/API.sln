@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Payment Validation", "Payment Validation\Payment Validation.csproj", "{D8E76914-6E79-4E7B-8891-28CCC8CA8E91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B8AD9E51-C473-4238-8197-5AB7070BEDE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8E76914-6E79-4E7B-8891-28CCC8CA8E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E76914-6E79-4E7B-8891-28CCC8CA8E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E76914-6E79-4E7B-8891-28CCC8CA8E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E76914-6E79-4E7B-8891-28CCC8CA8E91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AD9E51-C473-4238-8197-5AB7070BEDE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AD9E51-C473-4238-8197-5AB7070BEDE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AD9E51-C473-4238-8197-5AB7070BEDE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AD9E51-C473-4238-8197-5AB7070BEDE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

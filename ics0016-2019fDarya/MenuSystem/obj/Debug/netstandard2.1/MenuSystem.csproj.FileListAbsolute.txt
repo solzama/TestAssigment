@@ -1,0 +1,11 @@
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.deps.json
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\bin\Debug\netstandard2.1\MenuSystem.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.csprojAssemblyReference.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.AssemblyInfo.cs
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\bin\Debug\netstandard2.1\GameEngine.dll
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\bin\Debug\netstandard2.1\GameEngine.pdb
+C:\Users\Daria\RiderProjects\charp2019fall\Connect4\MenuSystem\obj\Debug\netstandard2.1\MenuSystem.csproj.CopyComplete

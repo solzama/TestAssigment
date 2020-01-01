@@ -1,0 +1,11 @@
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4.deps.json
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4.runtimeconfig.json
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4.runtimeconfig.dev.json
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4.dll
+/Users/sashazamana17/C#2019/Game/Connect4/bin/Debug/netcoreapp3.0/Connect4.pdb
+/Users/sashazamana17/C#2019/Game/Connect4/obj/Debug/netcoreapp3.0/Connect4.csprojAssemblyReference.cache
+/Users/sashazamana17/C#2019/Game/Connect4/obj/Debug/netcoreapp3.0/Connect4.AssemblyInfoInputs.cache
+/Users/sashazamana17/C#2019/Game/Connect4/obj/Debug/netcoreapp3.0/Connect4.AssemblyInfo.cs
+/Users/sashazamana17/C#2019/Game/Connect4/obj/Debug/netcoreapp3.0/Connect4.dll
+/Users/sashazamana17/C#2019/Game/Connect4/obj/Debug/netcoreapp3.0/Connect4.pdb

@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sashazamana17/C#2019/ics0016-2019f/ConsoleApp/ConsoleApp.csproj",
+    "projectName": "ConsoleApp",
+    "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019f/ConsoleApp/ConsoleApp.csproj",
+    "outputPath": "/Users/sashazamana17/C#2019/ics0016-2019f/ConsoleApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/sashazamana17/C#2019/ics0016-2019f/ConsoleUI/ConsoleUI.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019f/ConsoleUI/ConsoleUI.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019f/DAL/DAL.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019f/DAL/DAL.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019f/GameEngine/GameEngine.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019f/GameEngine/GameEngine.csproj"
+          },
+          "/Users/sashazamana17/C#2019/ics0016-2019f/MenuSystem/MenuSystem.csproj": {
+            "projectPath": "/Users/sashazamana17/C#2019/ics0016-2019f/MenuSystem/MenuSystem.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.0-preview2.19525.5, )"
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[12.0.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,47 @@
+@page
+
+@{
+    Layout = null;
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>API</title>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+<body>
+<section class="container form">
+    <form id="form" method="post">
+        <label>
+            <p class="form__inputText">Card owner</p>
+            <input type="text" name="owner" required class="form__input" >
+        </label>
+        <label>
+            <p class="form__inputText">Card number</p>
+            <input type="text" name="cardNumber" required class="form__input">
+        </label>
+        <label>
+            <p class="form__inputText">Issue date</p>
+            <input type="text" name="issueDateMonth" required class="form__input_date">
+            <h4>/</h4>
+            <input type="text" name="issueDateYear" required class="form__input_date">
+        </label>
+        <label>
+            <p class="form__inputText">Expiry date</p>
+            <input type="text" name="expiryDateMonth" required class="form__input_date">
+            <h4>/</h4>
+            <input type="text" name="expiryDateYear" required class="form__input_date">
+        </label>
+        <label>
+            <p class="form__inputText">CVC code</p>
+            <input type="password" name="cvc" required class="form__input">
+        </label>
+
+        <button asp-area="" asp-controller="Validation" asp-action="Card" type="submit" class="form__submit">Send</button>
+    </form>
+</section>
+</body>
+</html>
