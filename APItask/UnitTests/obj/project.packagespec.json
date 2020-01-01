@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/sashazamana17/UniStudies/C#2019/API/UnitTests/UnitTests.csproj",
+    "projectName": "UnitTests",
+    "projectPath": "/Users/sashazamana17/UniStudies/C#2019/API/UnitTests/UnitTests.csproj",
+    "outputPath": "/Users/sashazamana17/UniStudies/C#2019/API/UnitTests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp3.0"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "projectReferences": {
+          "/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/Payment Validation.csproj": {
+            "projectPath": "/Users/sashazamana17/UniStudies/C#2019/API/Payment Validation/Payment Validation.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[16.2.0, )"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

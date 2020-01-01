@@ -1,0 +1,26 @@
+@page
+@using Payment_Validation.Models
+@model Payment_Validation.Models.Card
+@{
+    ViewBag.Title = "Card";
+    Layout = "_Layout";
+}
+
+
+<!DOCTYPE html>  
+  
+<html>  
+<head>  
+    <meta name="viewport" content="width=device-width" />  
+    <title>Card</title>  
+</head>  
+<body> 
+<div>  
+    <b>Owner name:</b>  @Html.DisplayFor(model => model.Owner)
+    <br />  
+    <b>Card number:</b>  @Html.DisplayFor(model => model.CardNumber)
+    <br />  
+    <b>Card type:</b>  @Html.DisplayFor(model => model.CardType)
+    <br />  
+  
+</div></body></html> 
